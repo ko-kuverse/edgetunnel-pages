@@ -1,5 +1,8 @@
 # edgetunnel 自托管后台页面
 
+> 当前部署地址：<https://ko-kuverse.github.io/edgetunnel-pages/>
+> Worker 变量：`PAGES_BASE = https://ko-kuverse.github.io/edgetunnel-pages`
+
 这个仓库只做一件事：给 edgetunnel 的 Cloudflare Worker 提供 4 个静态页面，
 替代原来运行时从 `edt-pages.github.io` 拉取的公共页面。
 
